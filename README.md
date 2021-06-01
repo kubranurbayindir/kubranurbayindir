@@ -1,4 +1,4 @@
-### Hi there 👋😄 I'm Kübra Nur <g-emoji class="g-emoji" alias="dove" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f54a.png">🕊</g-emoji>
+## Hi there 👋😄 I'm Kübra Nur <g-emoji class="g-emoji" alias="dove" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f54a.png">🕊</g-emoji>
 
 ### 🔭 Learning & Interested 
 
