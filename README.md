@@ -8,6 +8,14 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4429ef2da650c2245bf274e901ab095fbddc37fdbb28b7106526a5d1ba630c82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d6344313f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d45463746314126636f6c6f723d324232413239"><img src="https://camo.githubusercontent.com/4429ef2da650c2245bf274e901ab095fbddc37fdbb28b7106526a5d1ba630c82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d6344313f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d45463746314126636f6c6f723d324232413239" alt="Java" data-canonical-src="https://img.shields.io/badge/java-cD1?style=for-the-badge&amp;logo=java&amp;logoColor=EF7F1A&amp;color=2B2A29" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/53565dea824952e7eccae630ca0d2888684ac96e58628a3db251d78300d0ee62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d6344313f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d45463746314126636f6c6f723d324232413239"><img src="https://camo.githubusercontent.com/53565dea824952e7eccae630ca0d2888684ac96e58628a3db251d78300d0ee62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d6344313f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d45463746314126636f6c6f723d324232413239" alt="Python" data-canonical-src="https://img.shields.io/badge/python-cD1?style=for-the-badge&amp;logo=python&amp;logoColor=EF7F1A&amp;color=2B2A29" style="max-width:100%;"></a></p>
 
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **HTML, CSS, JavaScript (Angular)**
+- Backend development using **Java**
+- Creating big and small projects using **Computer Vision**
+- Making for **Relational Database Management Systems**
+- Solving Data structure and algorithm questions 
+
 ### 📫 How to Reach Me
 
 <a href="https://tr.linkedin.com/in/kubranurbayindir" rel="nofollow"> <img alt="iletisim | Linkedin" src="https://camo.githubusercontent.com/72b128193842d9364c102e46a7c32b928493bbc816fb0a6a248add090df1a48f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3242324132392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d454637463141" data-canonical-src="https://img.shields.io/badge/linkedin-2B2A29.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EF7F1A" style="max-width:100%;"></a>
