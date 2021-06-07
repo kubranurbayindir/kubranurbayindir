@@ -1,4 +1,4 @@
-## Hi there <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></a>😄 I'm Kübra Nur <g-emoji class="g-emoji" alias="dove" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f54a.png">🕊</g-emoji>
+## Hi there <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></a>😄
 
 ## 🔭 Learning & Interested 
 
