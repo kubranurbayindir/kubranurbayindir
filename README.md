@@ -1,5 +1,13 @@
 ## Hi there <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></a>😄
 
+## ⚡ Technologies
+💬 Talk to me about
+- Front-end development using **HTML, CSS, JavaScript (Angular)** 🌱
+- Backend development using **Java** 🌱
+- Creating big and small projects using **Computer Vision** 🌱
+- Making for **Relational Database Management Systems** 🌱
+- Solving Data structure and algorithm questions 🌱
+
 ## 🔭 Learning & Interested 
 
   <p>
@@ -13,14 +21,6 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </p>
-
-## ⚡ Technologies
-💬 Talk to me about
-- Front-end development using **HTML, CSS, JavaScript (Angular)** 🌱
-- Backend development using **Java** 🌱
-- Creating big and small projects using **Computer Vision** 🌱
-- Making for **Relational Database Management Systems** 🌱
-- Solving Data structure and algorithm questions 🌱
 
 ## 📫 How to Reach Me
 
