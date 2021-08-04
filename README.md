@@ -2,7 +2,7 @@
 
 ## ⚡ Technologies
 💬 Talk to me about
-- Front-end development using **HTML, CSS, JavaScript (Node.js)** 🌱
+- Front-end development using **HTML, CSS, JavaScript ** 🌱
 - Backend development using **Java** 🌱
 - Creating big and small projects using **Computer Vision** 🌱
 - Making for **Relational Database Management Systems** 🌱
