@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kubranurbayindir&label=Profile%20views&color=0e75b6&style=flat" alt="kubranurbayindir" /> </p>
+//<p align="center"> <img src="https://komarev.com/ghpvc/?username=kubranurbayindir&label=Profile%20views&color=0e75b6&style=flat" alt="kubranurbayindir" /> </p>
