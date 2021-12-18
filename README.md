@@ -8,7 +8,7 @@
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> Technologies
 💬 Talk to me about
-- Front-end development using **HTML, CSS, JavaScript ** 🌱
+- Frontend development using **HTML, CSS, JavaScript ** 🌱
 - Backend development using **Java** 🌱
 - Creating big and small projects using **Computer Vision** 🌱
 - Making for **Relational Database Management Systems** 🌱
