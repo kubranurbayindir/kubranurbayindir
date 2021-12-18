@@ -1,10 +1,10 @@
-<h1 align="center">
+<h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=%23A227F7&lines=Hello,+There!+👋;This+is+Kübra+Nur...;I+love+coding+!+!;If+you+love+too,;say+hi+to+me+👋;I+will+be+happy;to+meet+you+more+😄&center=true&size=30">
   </a>
-</h1>
+</h3>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="310px"/>
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> Technologies
 💬 Talk to me about
