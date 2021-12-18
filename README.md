@@ -14,7 +14,7 @@
 - Making for **Relational Database Management Systems** 🌱
 - Solving Data structure and algorithm questions 🌱
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=<+I+am+lifetime+learner+!+!+/+>&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=<+I+am+lifetime+learner+!+/+>&center=true&size=20">
   </a>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"> Languages & Tools & Frameworks
