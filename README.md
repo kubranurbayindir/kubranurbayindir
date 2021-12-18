@@ -4,6 +4,8 @@
   </a>
 </h3>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
+
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> Technologies
 💬 Talk to me about
 - Front-end development using **HTML, CSS, JavaScript ** 🌱
@@ -11,7 +13,9 @@
 - Creating big and small projects using **Computer Vision** 🌱
 - Making for **Relational Database Management Systems** 🌱
 - Solving Data structure and algorithm questions 🌱
-<br>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+lifetime+learner+!+!&center=true&size=20">
+  </a>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"> Languages & Tools & Frameworks
 
@@ -39,11 +43,6 @@
 
 <a href="https://tr.linkedin.com/in/kubranurbayindir" rel="nofollow"> <img alt="iletisim | Linkedin" src="https://camo.githubusercontent.com/72b128193842d9364c102e46a7c32b928493bbc816fb0a6a248add090df1a48f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3242324132392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d454637463141" data-canonical-src="https://img.shields.io/badge/linkedin-2B2A29.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EF7F1A" style="max-width:100%;"></a>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+lifetime+learner+!&center=true&size=30">
-  </a>
-</h1>
 <!--
 **kubranurbayindir/kubranurbayindir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
