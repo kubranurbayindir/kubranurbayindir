@@ -40,7 +40,7 @@
 
 ![Kübra Nur's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=kubranurbayindir)
 
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"> How to Reach Me
+## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"> How to Reach Me?
 
 <a href="https://www.linkedin.com/in/k%C3%BCbra-nur-bayindir-a02442160/" rel="nofollow"> <img alt="iletisim | Linkedin" src="https://camo.githubusercontent.com/72b128193842d9364c102e46a7c32b928493bbc816fb0a6a248add090df1a48f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3242324132392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d454637463141" data-canonical-src="https://img.shields.io/badge/linkedin-2B2A29.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EF7F1A" style="max-width:100%;"></a>
 
