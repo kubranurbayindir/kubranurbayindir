@@ -6,7 +6,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
 
-## Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> Overview
 
 💬 Talk to me about
 - Frontend development using **HTML, CSS, JavaScript ** 🌱
@@ -37,8 +37,6 @@
 <br>
 <br>
 <br>
-
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55">  Open Source Work Stats
 
 ![Kübra Nur's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=kubranurbayindir)
 
