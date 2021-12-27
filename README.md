@@ -1,6 +1,6 @@
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=%23A227F7&lines=Hello,+There!+👋;This+is+Kübra+Nur...;I+love+coding+!+!;If+you+love+too,;Say+hi+to+me+👋;I+will+be+happy;to+meet+you+more+😄&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%235AC7D1&lines=Hello,+There!+👋;This+is+Kübra+Nur...;I+love+coding+!+!;If+you+love+too,;Say+hi+to+me+👋;I+will+be+happy;to+meet+you+more+😄&center=true&size=30">
   </a>
 </h3>
 
@@ -15,7 +15,7 @@
 - Making for **Relational Database Management Systems** 🌱
 - Solving Data structure and algorithm questions 🌱
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=<+I+am+lifetime+learner+!+/+>&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%235AC7D1&lines=<+I+am+lifetime+learner+!+/+>&center=true&size=20">
   </a>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"> Languages & Tools & Frameworks
