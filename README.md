@@ -46,7 +46,7 @@
     
 ![Kübra Nur's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=kubranurbayindir)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kubranurbayindir&layout=compact)
-  
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kubranurbayindir">
   </details>
   
   
