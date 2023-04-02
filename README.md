@@ -9,8 +9,8 @@
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> Overview
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Talk to me about
-- Frontend development using **HTML, CSS, JavaScript** 🌱
 - Backend development using **Java** 🌱
+- Frontend development using **HTML, CSS, JavaScript** 🌱
 - Creating big and small projects using **Computer Vision** 🌱
 - Making for **Relational Database Management Systems** 🌱
 - Solving Data structure and algorithm questions 🌱
