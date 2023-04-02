@@ -9,7 +9,7 @@
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> Overview
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Talk to me about
-- Backend development using **Java** 🌱
+- Backend development using **JAVA** 🌱
 - Frontend development using **HTML, CSS, JavaScript** 🌱
 - Creating big and small projects using **Computer Vision** 🌱
 - Making for **Relational Database Management Systems** 🌱
